@@ -21,5 +21,11 @@
         "psr-4": {
             "Oliverde8\\PhpEtlSyliusAdminBundle\\": "."
         }
+    },
+    "repositories": {
+        "php-etl-bundle": {
+            "type": "vcs",
+            "url": "https://github.com/MaximeRig/phpEtlBundle"
+        }
     }
 }
