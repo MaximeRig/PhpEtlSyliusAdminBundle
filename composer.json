@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "maximerig/php-etl-bundle": "^1.0",
+        "maximerig/php-etl-bundle": "dev-main",
         "sylius/admin-bundle": "^1.08"
     },
     "autoload": {
