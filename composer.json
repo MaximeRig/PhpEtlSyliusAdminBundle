@@ -14,18 +14,11 @@
     ],
     "require": {
         "php": ">=7.4",
-        "maximerig/php-etl-bundle": "dev-main",
         "sylius/admin-bundle": "^1.08"
     },
     "autoload": {
         "psr-4": {
             "Oliverde8\\PhpEtlSyliusAdminBundle\\": "."
-        }
-    },
-    "repositories": {
-        "php-etl-bundle": {
-            "type": "vcs",
-            "url": "https://github.com/MaximeRig/phpEtlBundle"
         }
     }
 }
