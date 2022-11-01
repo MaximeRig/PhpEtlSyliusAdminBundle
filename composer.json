@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "oliverde8/php-etl-bundle": "dev-main",
+        "oliverde8/php-etl-bundle": "dev-psr-log-2",
         "sylius/admin-bundle": "^1.08"
     },
     "autoload": {
